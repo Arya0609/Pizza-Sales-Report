@@ -62,7 +62,7 @@ Result:
 - Step 13 : building % of sales by Category & Size.
 ![image](https://github.com/Arya0609/Pizza-Sales-Report/assets/163738283/b966d637-73f9-4d33-aa9c-1bfea2057c98)
 - Step 14 : Adding insights
-![image](https://github.com/Arya0609/Pizza-Sales-Report/assets/163738283/502af5fc-f463-410d-b671-0be47b69a947)
+  - ![image](https://github.com/Arya0609/Pizza-Sales-Report/assets/163738283/502af5fc-f463-410d-b671-0be47b69a947)
 - Step 15 : Best & Worst Seller Dashboard
 ![image](https://github.com/Arya0609/Pizza-Sales-Report/assets/163738283/d0e47851-11f8-4be5-a5ae-47d8ff1a72d7)
 - Step 16 : Added Navigating Buttons.
