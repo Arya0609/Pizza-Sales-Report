@@ -22,31 +22,31 @@ Need to analyse the Key indicators for pizza sales to gain insights into our bus
 
 ### Steps followed 
 - Step 1 : Import CSV Data in SQL
-![image](https://github.com/Arya0609/Pizza-Sales-Report/assets/163738283/672d3e87-16e0-4470-9b8e-3c82b9ea49ac)
+    ![image](https://github.com/Arya0609/Pizza-Sales-Report/assets/163738283/672d3e87-16e0-4470-9b8e-3c82b9ea49ac)
 - Step 2: SQL Queries for KPI's:
 ![image](https://github.com/Arya0609/Pizza-Sales-Report/assets/163738283/63900053-48cc-4eaa-9b18-d91129584e26)
 Result:
-![image](https://github.com/Arya0609/Pizza-Sales-Report/assets/163738283/f8d8cf7f-0064-4cb0-a67e-f28af421d38e)
+   ![image](https://github.com/Arya0609/Pizza-Sales-Report/assets/163738283/f8d8cf7f-0064-4cb0-a67e-f28af421d38e)
 - Step 3 : SQL Queries for daily & monthly trend
 ![image](https://github.com/Arya0609/Pizza-Sales-Report/assets/163738283/2e8db2da-f79d-4700-a89a-f42b8696a3cd)
 Result:
-![image](https://github.com/Arya0609/Pizza-Sales-Report/assets/163738283/767f5c0c-9b2e-45df-9e75-22ae207a7f64)
+   ![image](https://github.com/Arya0609/Pizza-Sales-Report/assets/163738283/767f5c0c-9b2e-45df-9e75-22ae207a7f64)
 - Step 4 : SQL Query for % of Sales by Category & Size
 ![image](https://github.com/Arya0609/Pizza-Sales-Report/assets/163738283/d3415080-bbdb-49a6-93cc-3ec2cb77e119)
 Result
-![image](https://github.com/Arya0609/Pizza-Sales-Report/assets/163738283/d79bcaeb-0035-44bd-8e7f-fe26139d3153)
+   ![image](https://github.com/Arya0609/Pizza-Sales-Report/assets/163738283/d79bcaeb-0035-44bd-8e7f-fe26139d3153)
 - Step 5 : SQL Query for Top 5 & Bottom 5 Pizza by total Revenue
 ![image](https://github.com/Arya0609/Pizza-Sales-Report/assets/163738283/7e38746d-d200-4538-9157-01728a7a8088)
 Result:
-![image](https://github.com/Arya0609/Pizza-Sales-Report/assets/163738283/90c57fb3-ae48-4a7f-b2d7-5179ff2254fa)
+   ![image](https://github.com/Arya0609/Pizza-Sales-Report/assets/163738283/90c57fb3-ae48-4a7f-b2d7-5179ff2254fa)
 - Step 6 : SQL Query for Top 5 & Bottom 5 Pizza by total Quantity
 ![image](https://github.com/Arya0609/Pizza-Sales-Report/assets/163738283/86e47d17-a44c-4a6b-b7ab-9e743554ed99)
 Result:
-![image](https://github.com/Arya0609/Pizza-Sales-Report/assets/163738283/57c43175-d94b-4e2d-a11b-b2f8f0735936)
+   ![image](https://github.com/Arya0609/Pizza-Sales-Report/assets/163738283/57c43175-d94b-4e2d-a11b-b2f8f0735936)
 - Step 7 : SQL Query for Top 5 & Bottom 5 Pizza by total Orders
 ![image](https://github.com/Arya0609/Pizza-Sales-Report/assets/163738283/a1811cd9-afcd-4484-99e4-b9f2608b4885)
 Result:
-![image](https://github.com/Arya0609/Pizza-Sales-Report/assets/163738283/6f945708-88bb-457e-aa47-c24f66e46f19)
+   ![image](https://github.com/Arya0609/Pizza-Sales-Report/assets/163738283/6f945708-88bb-457e-aa47-c24f66e46f19)
 - Step 8 : Connect powerbi to Pizza CSV Data
 - Step 9 : Data Cleaning using Power Query
    - Changed Data Type of Date column.
